@@ -1,4 +1,4 @@
-package com.andrii.oriltesttask.repository.controller;
+package com.andrii.oriltesttask.controller;
 
 import com.andrii.oriltesttask.model.CryptocurrencyPrice;
 import com.andrii.oriltesttask.service.CryptocurrencyPriceService;
